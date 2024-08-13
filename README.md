@@ -4,7 +4,7 @@
 
 I'm not gonna lie, some projects are being developed with the assistance of ChatGPT. 
 
-With its help, I’m refining scripts and enhancing overall productivity
+With its help, I’m refining scripts and enhancing them.
 
 ---
 ### 🌟 *My stats* 🌟
