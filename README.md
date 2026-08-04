@@ -9,8 +9,7 @@ With its help, I’m refining scripts and enhancing them.
 ---
 ### 🌟 *My stats* 🌟
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daboynb&show_icons=true&bg_color=00000000)
-
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=daboynb)](https://github.com/stats-organization/github-stats-extended)
 ---
 ### 🌟 *My telegram* 🌟
 <a href="https://t.me/takidol" target="_blank"><img src="https://internetwithoutborders.org/wp-content/uploads/2018/04/telegram-1-1170x365.jpg" alt="DM" height="50" width="174"></a>
